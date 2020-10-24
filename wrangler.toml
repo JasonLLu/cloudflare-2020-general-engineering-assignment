@@ -1,6 +1,6 @@
 name = "cloudflare2021"
 type = "javascript"
-account_id = ""
+account_id = "3f75b605d51f34db8768849e77b97de5"
 workers_dev = true
 route = ""
 zone_id = ""
